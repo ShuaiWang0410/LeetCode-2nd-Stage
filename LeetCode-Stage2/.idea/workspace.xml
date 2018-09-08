@@ -14,51 +14,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Problem_39.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DP/Problem_39.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="17" column="0" lean-forward="false" selection-start-line="15" selection-start-column="8" selection-end-line="40" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Problem_40.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DP/Problem_40.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1224">
-              <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Problem_78.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tricks/Problem_78.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Problem_77.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/No_Class/Problem_77.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="17" column="39" lean-forward="false" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Problem_63.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DP/Problem_63.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
+            <state relative-caret-position="-588">
               <caret line="7" column="5" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="52" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Problem_118.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DP/Problem_118.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-93">
+              <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Problem_119.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DP/Problem_119.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -74,41 +54,61 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Problem_73.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BitMap/Problem_73.py">
+      <file leaf-file-name="Problem_78.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tricks/Problem_78.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" column="15" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="53" selection-end-column="36" />
+            <state relative-caret-position="376">
+              <caret line="26" column="14" lean-forward="true" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Problem_74.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Search/Problem_74.py">
+      <file leaf-file-name="Problem_90.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tricks/Problem_90.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="18" column="25" lean-forward="false" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+            <state relative-caret-position="244">
+              <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Problem_79.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Search/Problem_79.py">
+      <file leaf-file-name="Problem_142.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Linked_List/Problem_142.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="18" column="2" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="80" selection-end-column="43" />
+            <state relative-caret-position="306">
+              <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Problem_62.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DP/Problem_62.py">
+      <file leaf-file-name="Problem_127.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GRAPH/Problem_127.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="27" column="20" lean-forward="false" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+            <state relative-caret-position="-1072">
+              <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Problem_412.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DP/Problem_412.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Problem_575.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BitMap/Problem_575.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -126,13 +126,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/DP/Problem_152.py" />
-        <option value="$PROJECT_DIR$/DP/Problem_213.py" />
-        <option value="$PROJECT_DIR$/DP/Problem_221.py" />
-        <option value="$PROJECT_DIR$/DP/Problem_343.py" />
-        <option value="$PROJECT_DIR$/DP/Problem_357.py" />
-        <option value="$PROJECT_DIR$/DP/Problem_304.py" />
-        <option value="$PROJECT_DIR$/DP/Problem_62.py" />
         <option value="$PROJECT_DIR$/HashTable/Problem_18.py" />
         <option value="$PROJECT_DIR$/HashTable/Problem_274.py" />
         <option value="$PROJECT_DIR$/HashTable/Problem_138.py" />
@@ -175,6 +168,15 @@
         <option value="$PROJECT_DIR$/BitMap/Problem_73.py" />
         <option value="$PROJECT_DIR$/Search/Problem_74.py" />
         <option value="$PROJECT_DIR$/Search/Problem_79.py" />
+        <option value="$PROJECT_DIR$/Linked_List/Problem_141.py" />
+        <option value="$PROJECT_DIR$/Linked_List/Problem_142.py" />
+        <option value="$PROJECT_DIR$/Tricks/Problem_78.py" />
+        <option value="$PROJECT_DIR$/Tricks/Problem_90.py" />
+        <option value="$PROJECT_DIR$/DP/Problem_118.py" />
+        <option value="$PROJECT_DIR$/DP/Problem_119.py" />
+        <option value="$PROJECT_DIR$/GRAPH/Problem_127.py" />
+        <option value="$PROJECT_DIR$/DP/Problem_412.py" />
+        <option value="$PROJECT_DIR$/BitMap/Problem_575.py" />
       </list>
     </option>
   </component>
@@ -207,7 +209,67 @@
             <path>
               <item name="LeetCode-Stage2" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Stage2" type="462c0819:PsiDirectoryNode" />
+              <item name="Array" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Stage2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Stage2" type="462c0819:PsiDirectoryNode" />
+              <item name="BitMap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Stage2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Stage2" type="462c0819:PsiDirectoryNode" />
+              <item name="DP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Stage2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Stage2" type="462c0819:PsiDirectoryNode" />
+              <item name="GRAPH" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Stage2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Stage2" type="462c0819:PsiDirectoryNode" />
+              <item name="HashTable" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Stage2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Stage2" type="462c0819:PsiDirectoryNode" />
+              <item name="Linked_List" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Stage2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Stage2" type="462c0819:PsiDirectoryNode" />
+              <item name="Math" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Stage2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Stage2" type="462c0819:PsiDirectoryNode" />
+              <item name="No_Class" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Stage2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Stage2" type="462c0819:PsiDirectoryNode" />
+              <item name="Recursive" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Stage2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Stage2" type="462c0819:PsiDirectoryNode" />
               <item name="Search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Stage2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Stage2" type="462c0819:PsiDirectoryNode" />
+              <item name="Stack" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Stage2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Stage2" type="462c0819:PsiDirectoryNode" />
+              <item name="Tricks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Stage2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Stage2" type="462c0819:PsiDirectoryNode" />
+              <item name="TwoPointers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode-Stage2" type="b2602c69:ProjectViewProjectNode" />
@@ -247,8 +309,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Problem_79">
-    <configuration name="Problem_63" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Problem_575">
+    <configuration name="Problem_118" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -260,12 +322,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LeetCode-Stage2" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DP/Problem_63.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DP/Problem_118.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="Problem_64" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Problem_119" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -277,12 +339,46 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LeetCode-Stage2" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DP/Problem_64.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DP/Problem_119.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="Problem_73" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Problem_127" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GRAPH" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeetCode-Stage2" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GRAPH/Problem_127.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="Problem_412" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeetCode-Stage2" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DP/Problem_412.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="Problem_575" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -294,59 +390,25 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LeetCode-Stage2" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BitMap/Problem_73.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="Problem_74" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Search" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LeetCode-Stage2" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Search/Problem_74.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="Problem_79" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Search" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LeetCode-Stage2" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Search/Problem_79.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BitMap/Problem_575.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Problem_63" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Problem_64" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Problem_73" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Problem_74" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Problem_79" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Problem_127" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Problem_118" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Problem_119" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Problem_412" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Problem_575" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Problem_79" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Problem_74" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Problem_73" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Problem_64" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Problem_63" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Problem_575" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Problem_412" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Problem_127" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Problem_119" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Problem_118" />
       </list>
     </recent_temporary>
   </component>
@@ -890,72 +952,62 @@
           <line>14</line>
           <option name="timeStamp" value="203" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/GRAPH/Problem_127.py</url>
+          <line>96</line>
+          <option name="timeStamp" value="217" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/GRAPH/Problem_127.py</url>
+          <line>95</line>
+          <option name="timeStamp" value="222" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/GRAPH/Problem_127.py</url>
+          <line>82</line>
+          <option name="timeStamp" value="230" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/GRAPH/Problem_127.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="232" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/GRAPH/Problem_127.py</url>
+          <line>68</line>
+          <option name="timeStamp" value="233" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/GRAPH/Problem_127.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="234" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/GRAPH/Problem_127.py</url>
+          <line>76</line>
+          <option name="timeStamp" value="235" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BitMap/Problem_575.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="236" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BitMap/Problem_575.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="237" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BitMap/Problem_575.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="238" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="206" />
+      <option name="time" value="239" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DP/Problem_343.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DP/Problem_152.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DP/Problem_152.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2340">
-          <caret line="130" column="16" lean-forward="false" selection-start-line="130" selection-start-column="16" selection-end-line="130" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DP/Problem_213.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DP/Problem_221.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="42" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DP/Problem_343.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DP/Problem_357.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DP/Problem_304.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -1185,6 +1237,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="8" column="11" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="23" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1192,14 +1245,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="828">
           <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tricks/Problem_78.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
           <folding />
         </state>
       </provider>
@@ -1236,22 +1281,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DP/Problem_63.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="5" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="52" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DP/Problem_64.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BitMap/Problem_73.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -1272,6 +1301,94 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="18" column="2" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="80" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linked_List/Problem_141.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-357">
+          <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="12" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linked_List/Problem_142.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tricks/Problem_78.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="26" column="14" lean-forward="true" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tricks/Problem_90.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DP/Problem_64.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DP/Problem_63.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-588">
+          <caret line="7" column="5" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="52" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DP/Problem_118.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-93">
+          <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DP/Problem_119.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GRAPH/Problem_127.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1072">
+          <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DP/Problem_412.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BitMap/Problem_575.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
           <folding />
         </state>
       </provider>

@@ -25,8 +25,8 @@ class Solution(object):
         return sets
 
 c = Solution()
-d = c.subsets([])
-print(len(d))
+d = c.subsets([1,2,2])
+print(d)
 
 
 
